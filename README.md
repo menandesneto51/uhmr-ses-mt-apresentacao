@@ -30,6 +30,8 @@ Principais fontes:
 - `docs/11_MATRIZ_MESTRE_REQUISITOS_UHMR.md`
 - `docs/12_PLANO_PROTECAO_DADOS_E_SEGURANCA_UHMR.md`
 - `docs/13_PLANO_CONTINUIDADE_CONTINGENCIA_UHMR.md`
+- `docs/14_ETP_UHMR_SES_MT_v2_FONTE.md`
+- `docs/15_TERMO_DE_REFERENCIA_UHMR_v2_FONTE.md`
 
 O diretório `agents/` contém agentes especializados para revisão no Cursor. A regra `.cursor/rules/uhmr-v2.mdc` é obrigatória para continuidade técnica.
 
