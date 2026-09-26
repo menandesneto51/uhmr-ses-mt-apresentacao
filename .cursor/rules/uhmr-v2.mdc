@@ -1,0 +1,53 @@
+---
+description: Regras obrigatórias para manutenção da UHMR SES-MT v2
+alwaysApply: true
+---
+
+# UHMR SES-MT - regras do projeto
+
+1. Tratar o Cursor como ambiente padrão de implementação e manutenção.
+2. Preservar linguagem institucional da SES-MT.
+3. Nunca alterar ETP, TR, edital ou contrato isoladamente quando a mudança afetar requisitos comuns.
+4. Manter a matriz mestre de requisitos como fonte de rastreabilidade.
+5. Para cada requisito, registrar fundamento, critério de aceite, responsável, risco, SLA e custo quando aplicável.
+6. Não inventar norma, número de ato, dado epidemiológico, custo ou capacidade.
+7. Toda referência normativa deve ter fonte e data de verificação.
+8. Sinalizar normas cuja edição vigente precise de confirmação técnica.
+9. Não usar contratação emergencial como justificativa ordinária da prontidão UHMR.
+10. Priorizar requisitos funcionais e de desempenho; evitar marcas e tecnologias proprietárias sem justificativa.
+11. Não publicar dados pessoais, dados de pacientes, credenciais ou informações restritas.
+12. Separar claramente:
+   - planejamento;
+   - prontidão;
+   - mobilização;
+   - implantação;
+   - operação;
+   - expansão/redução;
+   - desmobilização;
+   - recomposição da prontidão.
+13. Antes de gerar release:
+   - validar links;
+   - validar referências normativas;
+   - verificar consistência ETP x TR x edital x contrato x custos;
+   - revisar matriz de riscos;
+   - revisar critérios de aceite;
+   - revisar ortografia e padrão institucional;
+   - atualizar CHANGELOG.
+14. Todo documento novo deve conter:
+   - órgão;
+   - projeto;
+   - título;
+   - código;
+   - versão;
+   - data-base;
+   - status;
+   - responsável/área quando definido.
+15. Usar o diretório docs/ como fonte textual versionada. Arquivos DOCX/PDF finais devem ser derivados das fontes aprovadas, evitando edições manuais divergentes.
+16. O agente Auditor deve bloquear release quando houver:
+   - requisito sem critério de aceite;
+   - norma sem fonte;
+   - quantitativo sem memória de cálculo;
+   - preço sem fonte/metodologia;
+   - referência cruzada quebrada;
+   - obrigação contratual sem responsável;
+   - SLA sem método de medição.
