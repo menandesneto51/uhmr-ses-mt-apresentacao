@@ -12,9 +12,9 @@ Apresentação executiva e pacote documental da **Unidade Hospitalar Modular de 
 
 ## Desenvolvimento v2
 
-A versão 2 está sendo estruturada com documentação-fonte versionada, rastreabilidade de requisitos, base legal, matriz de riscos, requisitos sanitários, SLA/KPI, fiscalização, consulta ao mercado e agentes de validação.
+A versão 2 está sendo estruturada com documentação-fonte versionada, rastreabilidade de requisitos, base legal, matriz de riscos, requisitos sanitários, engenharia, recursos humanos, custos, SLA/KPI, fiscalização, consulta ao mercado e agentes de validação.
 
-Principais fontes:
+### Documentos-fonte
 
 - `docs/00_GOVERNANCA_DOCUMENTAL_UHMR_SES_MT.md`
 - `docs/01_BASE_LEGAL_E_NORMATIVA_UHMR_SES_MT.md`
@@ -32,21 +32,41 @@ Principais fontes:
 - `docs/13_PLANO_CONTINUIDADE_CONTINGENCIA_UHMR.md`
 - `docs/14_ETP_UHMR_SES_MT_v2_FONTE.md`
 - `docs/15_TERMO_DE_REFERENCIA_UHMR_v2_FONTE.md`
+- `docs/16_MINUTA_EDITAL_UHMR_v2_FONTE.md`
+- `docs/17_MINUTA_CONTRATUAL_UHMR_v2_FONTE.md`
+- `docs/18_CADERNO_ENGENHARIA_INFRAESTRUTURA_UHMR.md`
+- `docs/19_MATRIZ_EQUIPAMENTOS_ENGENHARIA_CLINICA_UHMR.md`
+- `docs/20_MATRIZ_RECURSOS_HUMANOS_UHMR.md`
+- `docs/21_MODELO_ECONOMICO_E_CUSTOS_UHMR.md`
+- `docs/22_PLANO_TREINAMENTO_EXERCICIOS_UHMR.md`
+- `docs/23_PLANO_DESMOBILIZACAO_RECOMPOSICAO_UHMR.md`
+- `docs/24_REGISTRO_DECISOES_ABERTAS_UHMR.md`
 
-O diretório `agents/` contém agentes especializados para revisão no Cursor. A regra `.cursor/rules/uhmr-v2.mdc` é obrigatória para continuidade técnica.
+## Cursor e agentes
 
-## Escopo da solução
+O Cursor é o ambiente padrão de manutenção técnica.
 
-A proposta contempla prontidão, transporte, implantação, operação, manutenção e desmobilização de uma capacidade hospitalar temporária modular, com níveis acumulativos N0–N4. Os quantitativos da versão 1.0 são parâmetros preliminares e deverão ser confirmados por memória de cálculo, consulta ao mercado e validações técnicas.
+- regras obrigatórias: `.cursor/rules/uhmr-v2.mdc`;
+- agentes: `agents/`;
+- validador documental: `scripts/validate_documentation.py`;
+- CI: `.github/workflows/validate-docs.yml`.
 
-## Situação do material
+## Escopo
 
-Minuta para validação técnica, assistencial, sanitária, de engenharia, logística, tecnológica, orçamentária, administrativa e jurídica. Os parâmetros e quantitativos indicativos devem ser confirmados pela equipe formal de planejamento e pela consulta ao mercado.
+A proposta contempla prontidão, transporte, implantação, operação, manutenção e desmobilização de capacidade hospitalar temporária modular, com níveis acumulativos N0–N4.
+
+Os quantitativos da versão 1.0 permanecem parâmetros preliminares e deverão ser confirmados por memória de cálculo, dados estaduais, consulta ao mercado, validações sanitárias, engenharia e análise de custo.
+
+## Situação
+
+Minuta para validação técnica, assistencial, sanitária, de engenharia, logística, tecnológica, orçamentária, administrativa e jurídica.
+
+A documentação v2 não substitui atos formais da SES-MT, análise da SEPLAG/PGE quando aplicável, autorizações sanitárias ou aprovação da autoridade competente.
+
+## Identidade visual
+
+A UHMR deverá possuir seus próprios assets oficiais em `assets/`. A dependência atual de imagens hospedadas no repositório CIATOX será removida após incorporação e validação das cópias locais.
 
 ## Publicação
 
-O projeto é estático e compatível com GitHub Pages. Para publicação, configurar **Settings → Pages → Deploy from a branch → main / root**.
-
-## Governança
-
-A documentação v2 não substitui atos formais da SES-MT, análise da SEPLAG/PGE quando aplicável, autorizações sanitárias ou aprovação da autoridade competente.
+A versão pública atual permanece em GitHub Pages. A v2 somente substituirá a versão publicada após auditoria documental, QA visual e promoção controlada para `main`.
