@@ -50,6 +50,7 @@ required_files = [
     "15_TERMO_DE_REFERENCIA_UHMR_v2_FONTE.md",
     "16_MINUTA_EDITAL_UHMR_v2_FONTE.md",
     "17_MINUTA_CONTRATUAL_UHMR_v2_FONTE.md",
+    "25_MEMORIA_CALCULO_DIMENSIONAMENTO_UHMR.md",
 ]
 
 for name in required_files:
