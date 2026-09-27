@@ -1,12 +1,12 @@
 # CHANGELOG - UHMR SES-MT
 
-## [2.0.0-draft] - 2026-09-26
+## [2.0.0-draft] - 2026-09-27
 
 ### Adicionado
 
 - governança documental UHMR;
 - base legal e normativa consolidada;
-- novo Documento de Formalização da Demanda;
+- Documento de Formalização da Demanda v2;
 - matriz de riscos;
 - matriz sanitária e assistencial;
 - plano de gestão e fiscalização contratual;
@@ -20,28 +20,46 @@
 - plano de continuidade e contingência;
 - ETP v2 como fonte controlada;
 - Termo de Referência v2 como fonte controlada;
-- agentes especializados;
-- regras obrigatórias do projeto para Cursor.
+- minuta de edital v2;
+- minuta contratual v2;
+- caderno de engenharia e infraestrutura;
+- matriz de equipamentos e engenharia clínica;
+- matriz de recursos humanos;
+- modelo econômico e estrutura de custos;
+- plano de treinamento e exercícios;
+- plano de desmobilização e recomposição;
+- registro de decisões abertas;
+- agentes especializados, incluindo fiscalização/operação;
+- regras obrigatórias do projeto para Cursor;
+- validação automática da documentação em Python;
+- workflow GitHub Actions para validação documental;
+- governança de assets institucionais.
 
 ### Decisões
 
-- Cursor passa a ser o ambiente padrão de manutenção técnica;
-- documentos-fonte textuais versionados passam a preceder a geração dos DOCX/PDF finais;
-- contratação emergencial não será tratada como fundamento ordinário do modelo de prontidão;
-- requisitos deverão possuir rastreabilidade entre fundamento, risco, custo, SLA e aceite;
-- quantitativos definitivos exigirão memória de cálculo e validação;
-- ETP e TR passam a ser regenerados a partir das fontes controladas da v2.
+- Cursor é o ambiente padrão de manutenção técnica;
+- documentos-fonte textuais versionados precedem DOCX/PDF finais;
+- contratação emergencial não é fundamento ordinário do modelo de prontidão;
+- requisitos devem ser rastreáveis entre fundamento, risco, custo, SLA e aceite;
+- quantitativos definitivos exigem memória de cálculo;
+- edital e contrato devem ser derivados de ETP/TR aprovados;
+- custo de prontidão deve ser separado de ativação e operação;
+- ativos visuais da UHMR devem ser locais e oficialmente validados;
+- nenhuma decisão aberta será silenciosamente convertida em requisito definitivo.
 
 ### Pendências para 2.0.0
 
-- revisar edital e contrato;
-- revisar planilha de custos;
-- criar caderno de engenharia;
-- criar matriz de equipamentos;
-- criar matriz de recursos humanos;
-- validar normas técnicas com responsáveis;
+- consolidar memória de cálculo N1-N4;
+- transformar modelo econômico em planilha operacional versionada;
 - executar RFI/consulta ao mercado;
-- consolidar memória de cálculo;
-- consolidar identidade visual SES-MT nos artefatos finais;
-- regenerar DOCX/PDF;
-- realizar QA visual e auditoria final.
+- validar prazos e quantitativos;
+- validar modelo de RH;
+- validar normas técnicas e de engenharia;
+- definir parcelamento e critério de julgamento;
+- definir vigência, garantias e seguros;
+- incorporar assets oficiais locais;
+- regenerar DOCX/PDF finais;
+- revisar apresentação executiva;
+- realizar QA visual;
+- executar Auditor Final;
+- obter validações institucionais formais.
