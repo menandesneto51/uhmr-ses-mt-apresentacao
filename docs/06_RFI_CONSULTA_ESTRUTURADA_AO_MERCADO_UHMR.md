@@ -229,3 +229,9 @@ Solicitar que cada respondente informe, para cada configuração:
 - responsabilidades por armazenamento, guarda, transporte, resíduos e licenças.
 
 As respostas devem ser comparáveis no formato UHMR-ECO-002.
+
+## Governança da rodada de mercado — revisão 2.2
+
+A execução desta RFI deverá seguir o [Plano de RFI e Pesquisa de Mercado](32_PLANO_RFI_E_PESQUISA_MERCADO_UHMR.md). A lista de fornecedores é aberta e não constitui pré-seleção. Todas as entidades consultadas receberão o mesmo conjunto de premissas e cenários, e as respostas econômicas somente serão comparadas após normalização de escopo, duração, distância, responsabilidades e critérios de aceite.
+
+Referências públicas de unidades móveis, módulos e aquisições correlatas podem apoiar a análise, mas não serão tratadas como equivalentes ao preço de uma UHMR completa nem substituirão a pesquisa formal.
