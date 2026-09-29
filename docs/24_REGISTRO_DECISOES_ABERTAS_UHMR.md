@@ -41,3 +41,16 @@ Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_
 Permanecem pendentes de decisão institucional: solução e parcelamento, modalidade e critério de julgamento, catálogo e limites, quantitativos sustentados por dados, preços pesquisados, reserva orçamentária, SLAs, matriz de riscos, licenciamento e ato de competência. Menções anteriores a modalidade, técnica e preço, faixas de leitos, prazos ou percentuais são propostas a harmonizar na versão final. Não declarar a contratação aprovada ou pronta para publicação antes dessas validações. As diretrizes OMS para equipes médicas de emergência são referência técnica complementar; N0–N4 é classificação interna do projeto e não representa classificação ou certificação OMS.
 
 Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).
+
+## Decisões abertas acrescidas na revisão 2.2
+
+- extensão do uso do padrão EMT Tipo 2 como referência, sem pressupor certificação;
+- escopo e protocolo de FAT/SAT por componente;
+- memória de cálculo e autonomia de água, energia, combustível e oxigênio;
+- responsabilidade por ambulâncias e transporte inter-hospitalar;
+- modelo final da farmácia, cadeia fria e estoque inicial;
+- matriz de responsabilidades consolidada;
+- regra e prazo de recondicionamento pós-missão;
+- catálogo e unidades econômicas finais;
+- metodologia de pesquisa de preços e fontes aceitas;
+- critérios para atualização/revisão quando o edital definitivo da FN-SUS for publicado.
