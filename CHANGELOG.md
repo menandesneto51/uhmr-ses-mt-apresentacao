@@ -71,3 +71,22 @@ Compatibilização de N0 remunerado, ativação personalizada, manutenção pela
 - realizar QA visual;
 - executar Auditor Final;
 - obter validações institucionais formais.
+
+## [2.2.0-draft] - 2026-09-28
+
+### Adicionado
+- benchmark FN-SUS Consulta Pública nº 04/2026;
+- matriz de responsabilidades e custos modulares;
+- relatório de validação por agentes;
+- requisitos de FAT/SAT, ciclo de vida e recondicionamento;
+- novos riscos, indicadores e perguntas de RFI;
+- gate explícito contra uso da consulta federal como preço oficial.
+
+### Alterado
+- ETP, TR, edital e contrato fontes para revisão 2.2;
+- modelo econômico, matriz de riscos, SLA, diretrizes e caderno de controles;
+- agentes de coordenacao, jurídico, assistencial, engenharia, custos, fiscalização e auditoria;
+- validador documental e regras do Cursor.
+
+### Gate
+A revisão 2.2 permanece minuta técnica. Edital final depende de pesquisa de preços, quantitativos, SLA, memórias de cálculo, matriz de responsabilidades, parcelamento/julgamento, licenciamento e validações formais.
