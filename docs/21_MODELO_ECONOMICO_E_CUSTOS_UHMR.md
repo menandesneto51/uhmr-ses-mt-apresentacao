@@ -154,3 +154,11 @@ A pesquisa de mercado deverá solicitar composição homogênea para N0, dez lei
 Proposta de indicadores: disponibilidade por componente = horas de capacidade disponível e comprovada / horas de capacidade contratada; manutenção preventiva no prazo = intervenções concluídas no prazo / intervenções devidas; entrega conforme = unidades aceitas / unidades entregues. Denominador zero será registrado como não aplicável. Registrar também tempo da OA ao recebimento, tempo até liberação e falhas críticas. Metas, janelas de apuração, tolerâncias, substituição e regra proporcional de medição devem ser validadas antes do edital. Não fixar percentuais de glosa arbitrários nem confundir redução por serviço não prestado com sanção administrativa. Impedimentos atribuíveis à SES ou a terceiros serão registrados e tratados conforme matriz de riscos.
 
 Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).
+
+## Revisão 2.2 — benchmark e estrutura de preços
+
+Adotar [UHMR-ECO-002](29_MATRIZ_RESPONSABILIDADES_E_CUSTOS_MODULARES_UHMR.md) como estrutura mínima para RFI e pesquisa de preços. A Consulta Pública FN-SUS nº 04/2026 serve como benchmark técnico contemporâneo, mas o Relatório Final registrou ausência de contribuições significativas quanto à precificação. Logo, não há valor federal atual suficiente para ser transplantado à UHMR.
+
+Preços históricos de aquisições federais, se utilizados, deverão aparecer apenas como referência secundária, com data, objeto, atualização monetária, diferenças de escopo e alerta expresso de não equivalência.
+
+O orçamento estimado será formado por fontes próprias compatíveis com o art. 23 da Lei nº 14.133/2021 e regulamento estadual, normalizadas pelo mesmo catálogo, duração, distância, capacidade e matriz de responsabilidades.
