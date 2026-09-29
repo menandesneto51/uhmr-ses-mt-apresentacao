@@ -50,3 +50,16 @@ Antes do edital, cadastrar cada módulo e fornecimento com código, descrição,
 Distinguir aceite inicial e mensal da prontidão, liberação para funcionamento e recebimento de produtos. Fiscal técnico verifica execução; gestor coordena providências; área demandante fundamenta necessidade; assistência farmacêutica valida medicamentos; engenharia clínica valida equipamentos; autoridade sanitária atua em sua competência. As designações precisam ser formalizadas. Para módulo assistencial, anexar testes, registros profissionais, equipe, fluxos e licenças aplicáveis antes da abertura. Para fornecimento isolado, usar termo de recebimento por item e registrar recusas. Não considerar o silêncio da fiscalização como aceite.
 
 Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).
+
+## Requisitos transversais adicionados na revisão 2.2
+
+| ID | Requisito | Evidência mínima | Documento |
+|---|---|---|---|
+| BMK-01 | utilizar Consulta FN-SUS nº 04/2026 como benchmark, sem equivalência automática | registro comparativo | ETP/benchmark |
+| MOD-01 | permitir ativação parcial e independente | catálogo + teste/aceite | TR |
+| TST-01 | prever FAT/SAT ou teste equivalente quando aplicável | protocolo e relatório | TR/SLA |
+| LIF-01 | controlar ciclo de vida, manutenção e recondicionamento | plano + registros | contrato/fiscalização |
+| RSP-01 | definir matriz de responsabilidades | matriz aprovada | TR/contrato |
+| ECO-01 | impedir dupla cobrança | mapa de composição + conciliação | custos/medição |
+| UTL-01 | dimensionar utilidades por memória de cálculo | memória assinada | engenharia |
+| PRC-01 | formar preço por pesquisa própria | mapa de preços e fontes | ETP/orçamento |
