@@ -62,11 +62,10 @@ for name in required_files:
 
 # Verifica referências mínimas entre documentos derivados.
 cross_checks = {
-    "15_TERMO_DE_REFERENCIA_UHMR_v2_FONTE.md": ["UHMR-ETP-001", "UHMR-RSK-001", "UHMR-SLA-001"],
     "16_MINUTA_EDITAL_UHMR_v2_FONTE.md": ["TR", "matriz de riscos", "SLA"],
     "17_MINUTA_CONTRATUAL_UHMR_v2_FONTE.md": ["TR", "SLA", "matriz de riscos"],
     "14_ETP_UHMR_SES_MT_v2_FONTE.md": ["Consulta Pública nº 04/2026", "ativação parcial", "art. 23"],
-    "15_TERMO_DE_REFERENCIA_UHMR_v2_FONTE.md": ["FAT", "SAT", "ativação parcial", "matriz de responsabilidades"],
+    "15_TERMO_DE_REFERENCIA_UHMR_v2_FONTE.md": ["UHMR-ETP-001", "UHMR-RSK-001", "UHMR-SLA-001", "FAT", "SAT", "ativação parcial", "matriz de responsabilidades"],
     "21_MODELO_ECONOMICO_E_CUSTOS_UHMR.md": ["art. 23", "não há valor federal atual", "dupla cobrança"],
     "30_RELATORIO_VALIDACAO_AGENTES_REVISAO_2_2.md": ["Auditor Final", "BLOQUEIO DE PREÇO FINAL", "LIBERA SOMENTE MINUTA 2.2"],
 }
