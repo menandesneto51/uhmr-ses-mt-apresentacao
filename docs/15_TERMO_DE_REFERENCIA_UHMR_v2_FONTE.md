@@ -3,7 +3,7 @@
 ### TERMO DE REFERÊNCIA - UHMR
 
 **Código:** UHMR-TR-001
-**Versão:** 2.1 - fonte controlada
+**Versão:** 2.2 - fonte controlada
 **Data-base:** setembro de 2026
 **Status:** minuta técnica dependente da conclusão do ETP e validações formais
 
@@ -541,3 +541,22 @@ A pesquisa de mercado deverá solicitar composição homogênea para N0, dez lei
 Distinguir aceite inicial e mensal da prontidão, liberação para funcionamento e recebimento de produtos. Fiscal técnico verifica execução; gestor coordena providências; área demandante fundamenta necessidade; assistência farmacêutica valida medicamentos; engenharia clínica valida equipamentos; autoridade sanitária atua em sua competência. As designações precisam ser formalizadas. Para módulo assistencial, anexar testes, registros profissionais, equipe, fluxos e licenças aplicáveis antes da abertura. Para fornecimento isolado, usar termo de recebimento por item e registrar recusas. Não considerar o silêncio da fiscalização como aceite.
 
 Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).
+
+## Revisão 2.2 — requisitos derivados do benchmark federal
+
+Sem converter a UHMR em reprodução do modelo patrimonial da FN-SUS, o TR final deverá incorporar, quando aplicável à configuração contratada:
+
+- ativação parcial e independente dos módulos, com funcionamento seguro das utilidades indispensáveis;
+- FAT e SAT ou testes equivalentes, com protocolos, evidências e critérios objetivos de aceite;
+- repetibilidade de montagem/desmontagem e recomposição da capacidade após sucessivos ciclos;
+- plano de manutenção preventiva e corretiva, peças, reparo em campo e substituição para preservação da disponibilidade;
+- matriz de responsabilidades para estrutura, equipamentos, armazenamento, manutenção, mobilização/desmobilização, água, combustível, gases medicinais, resíduos, medicamentos, transporte e recondicionamento;
+- memória de cálculo para energia, água, combustível e oxigênio conforme carga, perfil assistencial, duração e reabastecimento;
+- estratégia de referência, contrarreferência e transporte de pacientes cuja complexidade exceda a capacidade acionada;
+- requisitos funcionais da farmácia e cadeia fria;
+- recondicionamento pós-missão e prazo para retorno à capacidade N0 contratada;
+- segregação de preços e evidências de modo a impedir dupla cobrança.
+
+O aceite de módulos isolados deve ser proporcional ao escopo: fornecimento de medicamentos não exige SAT hospitalar; laboratório isolado exige comissionamento compatível com seu escopo; módulos estruturais/utilidades exigem testes integrados pertinentes.
+
+A Consulta Pública FN-SUS nº 04/2026 é referência técnica de planejamento e não fixa preços ou obriga a adoção integral do padrão EMT Tipo 2 na UHMR.
