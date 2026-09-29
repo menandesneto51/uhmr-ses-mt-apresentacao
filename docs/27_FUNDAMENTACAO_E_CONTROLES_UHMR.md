@@ -3,7 +3,7 @@
 # Caderno de fundamentação e controles da UHMR
 
 **Código:** UHMR-TEC-008
-**Versão:** 2.1, 28/09/2026 (horário de Cuiabá).
+**Versão:** 2.2, 28/09/2026 (horário de Cuiabá).
 **Situação:** minuta técnica para validação institucional.
 
 As condições abaixo são propostas de desenho contratual, fundamentadas nas referências indicadas. Não constituem parecer jurídico nem substituem as decisões formais.
@@ -66,3 +66,19 @@ Anvisa. Perguntas e respostas sobre a RDC nº 430/2020. Atualização de novembr
 
 World Health Organization. Classification and minimum standards for emergency medical teams. Geneva: WHO, 2021. Disponível em: https://extranet.who.int/emt/sites/default/files/BlueBook2021.pdf. Acesso em: 28 set. 2026.
 
+## 12. Benchmark federal contemporâneo — Consulta Pública FN-SUS nº 04/2026
+
+A Consulta Pública nº 04/2026, encerrada em 09/09/2026, foi promovida pela Diretoria da FN-SUS para subsidiar futura licitação de Hospital de Campanha Modular e aferir mercado, requisitos técnicos, operação, logística, preços e lead time. O Caderno consulta expressamente ativação parcial independente, FAT/SAT, manutenção e custos de ciclo de vida.
+
+O Relatório Final do Processo SEI nº 25000.122539/2026-97 registra que o objeto federal é aquisição e que a guarda/mobilização pós-aceite caberá à FN-SUS; portanto, não se deve tratar essa solução como juridicamente idêntica ao modelo estadual de prontidão continuada. O mesmo relatório acolhe a necessidade de matriz de responsabilidades e de detalhamento de prontidão, manutenção e recondicionamento pós-missão.
+
+Quanto à formação de preços, o relatório registra ausência de contribuições significativas. Consequentemente, a consulta serve como benchmark técnico, mas não fornece orçamento atual apto a substituir a pesquisa estadual.
+
+Referências:
+- página oficial da consulta: https://www.gov.br/saude/pt-br/acesso-a-informacao/participacao-social/consultas-publicas/2026/coleta-de-informacoes-para-formacao-de-precos-visando-atender-aos-requisitos-tecnicos-e-operacionais-aplicaveis-as-emt
+- caderno: https://www.gov.br/saude/pt-br/acesso-a-informacao/participacao-social/consultas-publicas/2026/coleta-de-informacoes-para-formacao-de-precos-visando-atender-aos-requisitos-tecnicos-e-operacionais-aplicaveis-as-emt/caderno-de-consulta-publica
+- relatório final: https://www.gov.br/saude/pt-br/acesso-a-informacao/participacao-social/consultas-publicas/2026/coleta-de-informacoes-para-formacao-de-precos-visando-atender-aos-requisitos-tecnicos-e-operacionais-aplicaveis-as-emt/relatorio-final.pdf
+
+## 13. Gate de preço e publicação
+
+A revisão 2.2 pode ser utilizada para continuidade do planejamento, RFI e validações. O Auditor Final deve bloquear publicação de edital enquanto não existirem pesquisa de preços suficiente, quantitativos e tetos, SLAs, matriz de responsabilidades, memórias de cálculo críticas, modelo de parcelamento/julgamento, licenciamento e validações institucionais.
