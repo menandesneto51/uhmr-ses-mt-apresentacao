@@ -36,3 +36,9 @@ Nunca marcar PASS quando houver risco à segurança do paciente, conflito juríd
 ## Premissas obrigatórias da revisão 2.1
 
 Aplicar docs/26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md. N0 é prontidão remunerada e comprovada. N1 a N4 são referenciais não cumulativos. Permitir somente laboratório, dez leitos ou somente medicamentos, com suportes necessários. A empresa custeia manutenção preventiva e corretiva ordinária e substituições, inclusas nos preços. O Secretário de Estado de Saúde autoriza mediante documentação, análise de risco e cenários. Validar preços, limites e ausência de dupla cobrança. Não converter premissas de projeto em atos oficiais emitidos.
+
+## Gate obrigatório da revisão 2.2
+
+A revisão 2.2 pode ser liberada como minuta técnica para planejamento, Cursor, RFI e pesquisa de preços. Manter BLOQUEADA a publicação do edital/versão final se faltar qualquer um dos seguintes: pesquisa de preços suficiente; quantitativos/tetos; SLAs; matriz de responsabilidades; memórias de cálculo críticas; parcelamento/julgamento; licenciamento; modelo de RH/responsabilidade assistencial; competência formal; análise jurídica e autorização competente.
+
+Conferir expressamente docs/28_BENCHMARK_FNSUS_CONSULTA_PUBLICA_04_2026.md, docs/29_MATRIZ_RESPONSABILIDADES_E_CUSTOS_MODULARES_UHMR.md e docs/30_RELATORIO_VALIDACAO_AGENTES_REVISAO_2_2.md.
