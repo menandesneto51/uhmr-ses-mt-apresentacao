@@ -1,9 +1,9 @@
 # SES-MT - UHMR
 ## Memória de Cálculo e Dimensionamento N1-N4
 
-**Código:** UHMR-DAT-001  
-**Versão:** 2.0 - fonte metodológica  
-**Status:** modelo preliminar para validação multidisciplinar  
+**Código:** UHMR-DAT-001
+**Versão:** 2.1 - fonte metodológica
+**Status:** modelo preliminar para validação multidisciplinar
 **Artefato associado:** `UHMR_SES_MT_MEMORIA_CALCULO_E_CUSTOS_v2.xlsx`
 
 ## 1. Objetivo
@@ -163,7 +163,7 @@ O custo total é decomposto em:
 
 **Custo total = prontidão + mobilização + implantação + operação + expansão + desmobilização + demais componentes autorizados**
 
-A aba Custos permanece com valores zerados enquanto não houver RFI/pesquisa formal.
+Preços ausentes permanecem pendentes. Zero somente representa preço efetivamente definido como zero ou item não acionado. A aba Acionamento permite composição independente por item; os cenários antigos são apenas referenciais.
 
 ### Componentes mínimos
 
@@ -301,3 +301,23 @@ Os resultados aprovados desta memória devem atualizar simultaneamente:
 O Cursor deve tratar valores classificados como hipótese, placeholder, simulação ou pendente de RFI como **não aprovados**.
 
 Qualquer tentativa de propagá-los para edital/contrato deve gerar alerta e exigir evidência de validação.
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+Acrescentar às planilhas a configuração efetiva por itens, meses N0 e parcelas variáveis independentes. Usar quantidade zero para item não acionado; preço ausente deve permanecer pendente. Não inferir infraestrutura, RH ou custos de missão a partir de um nível fixo. Cenários referenciais permanecem para comparação, separados da composição personalizada.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 2. Necessidade, alternativas e dimensionamento
+
+O ETP deverá comparar capacidade própria, locação com suporte, serviço integrado e aproveitamento de contratos ou capacidade existente, documentando investimento, custo anual, tempo de resposta, logística e risco de indisponibilidade. Para cada cenário, registrar fonte e data dos dados, população exposta, demanda provável e máxima plausível, capacidade operacional residual da rede, lacuna, duração e incerteza. Dimensionar a configuração para a lacuna demonstrada, sem usar capacidade cadastrada como sinônimo de capacidade disponível. Os números de leitos nas versões anteriores são referências de planejamento e não autorizam quantitativos ou preços.
+
+### 7. Formação de preços, medição e vedação à duplicidade
+
+A pesquisa de mercado deverá solicitar composição homogênea para N0, dez leitos, laboratório, medicamentos e missão combinada, incluindo distâncias e durações comparáveis. Separar reserva de estoque, aquisição, consumo e reposição; esclarecer titularidade e destino dos saldos. O mapa de custos indicará o que cada preço inclui. Na medição mensal, conciliar OA, boletim de execução, inventário, aceite, nota fiscal e histórico de pagamentos. Suporte compartilhado e manutenção ordinária não geram cobrança duplicada. Para insumos pagos por unidade entregue e aceita, não cobrar novamente reposição da mesma entrega. A continuidade do N0 durante a missão depende das obrigações que permanecem e da segregação de custos.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).

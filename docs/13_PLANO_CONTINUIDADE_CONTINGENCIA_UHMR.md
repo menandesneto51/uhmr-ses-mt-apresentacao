@@ -1,8 +1,8 @@
 # SES-MT - UHMR
 ## Plano de Continuidade e Contingência
 
-**Código:** UHMR-OPS-001  
-**Versão:** 2.0 - minuta
+**Código:** UHMR-OPS-001
+**Versão:** 2.1 - minuta
 
 ## 1. Objetivo
 
@@ -86,3 +86,21 @@ Todo incidente relevante gera:
 - atualização de risco;
 - atualização de treinamento;
 - revisão de SLA/requisitos se necessário.
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+Planejar contingência da capacidade N0 durante manutenção e missão, com substituição equivalente, comunicação de indisponibilidade e recomposição. A substituição técnica de equipamento não autoriza ampliar escopo ou custo sem decisão formal.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+A cobertura de substituição deverá ser demonstrada por teste e evidência de capacidade equivalente antes do aceite da prontidão ou da retomada do módulo.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 9. Matriz de riscos e continuidade
+
+Atribuir à empresa falha ordinária de equipamento, manutenção vencida, conservação inadequada e perda por vencimento sob sua gestão; prever substituição e recomposição sem preço adicional ordinário. Identificar separadamente acesso bloqueado, sítio inadequado, falha de utilidades locais, demanda simultânea e atraso de licença, com responsável, prevenção, contingência, evidência e consequência contratual. A imputação dependerá da causa documentada e da alocação pactuada. Para assistência, prever referência e transporte seguro de pacientes; para laboratório, rede de apoio; para medicamentos, fornecedor e rota alternativos autorizados. O encerramento exige transferência assistencial, reconciliação de estoques e liberação do sítio.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).

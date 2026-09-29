@@ -1,8 +1,8 @@
 # SES-MT - UHMR
 ## Registro de Decisões Abertas
 
-**Código:** UHMR-GOV-006  
-**Versão:** 2.0 - controle de pendências decisórias
+**Código:** UHMR-GOV-006
+**Versão:** 2.1 - controle de pendências decisórias
 
 | ID | Decisão | Impacta | Evidência necessária | Responsável sugerido | Status |
 |---|---|---|---|---|---|
@@ -25,3 +25,19 @@
 ## Regra
 
 Nenhuma decisão aberta pode ser silenciosamente convertida em requisito definitivo. Toda mudança de status deve registrar evidência e ato/validação correspondente.
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+Premissas definidas em 28/09/2026: N0 de prontidão remunerada; personalização sem cumulatividade; manutenção pela empresa; medicamentos isolados; acionamento pelo Secretário com risco e cenários. Pendem formalização institucional, preços, catálogo, limites, SLA, evidências e análise jurídica. Não confundir decisão de projeto com ato oficial já expedido.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 11. Condições para concluir a versão de edital
+
+Permanecem pendentes de decisão institucional: solução e parcelamento, modalidade e critério de julgamento, catálogo e limites, quantitativos sustentados por dados, preços pesquisados, reserva orçamentária, SLAs, matriz de riscos, licenciamento e ato de competência. Menções anteriores a modalidade, técnica e preço, faixas de leitos, prazos ou percentuais são propostas a harmonizar na versão final. Não declarar a contratação aprovada ou pronta para publicação antes dessas validações. As diretrizes OMS para equipes médicas de emergência são referência técnica complementar; N0–N4 é classificação interna do projeto e não representa classificação ou certificação OMS.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).

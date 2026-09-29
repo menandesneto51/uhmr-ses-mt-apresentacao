@@ -1,3 +1,11 @@
+## Revisão 2.1 — fundamentação e controles (28/09/2026)
+
+Revisados os documentos Word e fontes, PDFs, planilhas e apresentação. Incluído caderno de fundamentação com legislação de contratação, referências sanitárias e condições para validar o edital. Testados cenários de N0, dez leitos, laboratório e medicamentos, sem duplicidade de custos.
+
+# Revisão 2.1 — 28/09/2026
+
+Compatibilização de N0 remunerado, ativação personalizada, manutenção pela empresa, medicamentos isolados e decisão do Secretário fundamentada em risco e cenários. Atualizados documentos Word, fontes, planilhas, formulários, apresentação e regras Cursor. Aprovação institucional e preços permanecem pendentes.
+
 # CHANGELOG - UHMR SES-MT
 
 ## [2.0.0-draft] - 2026-09-27

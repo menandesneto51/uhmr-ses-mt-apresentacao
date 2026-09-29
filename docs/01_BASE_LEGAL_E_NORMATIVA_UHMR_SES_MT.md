@@ -2,10 +2,10 @@
 ## SECRETARIA DE ESTADO DE SAÚDE - SES-MT
 ### UHMR - Unidade Hospitalar Modular de Resposta a Emergências
 
-**Documento:** Base Legal e Normativa Consolidada  
-**Código:** UHMR-LEG-001  
-**Versão:** 2.0 - minuta técnica  
-**Data-base:** setembro de 2026  
+**Documento:** Base Legal e Normativa Consolidada
+**Código:** UHMR-LEG-001
+**Versão:** 2.1 - minuta técnica
+**Data-base:** setembro de 2026
 **Situação:** referência para revisão; sujeita à validação jurídica e técnica
 
 ---
@@ -216,3 +216,27 @@ Antes de cada release institucional, o agente de conformidade normativa deve ver
 - legislação estadual de incêndio, sanitária e ambiental.
 
 A data e o responsável pela checagem deverão constar no relatório de release.
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+A definição do Secretário como autoridade de acionamento é premissa de governança do projeto, a formalizar no instrumento institucional competente. O custeio da manutenção pela empresa é alocação contratual expressa. Nenhuma dessas opções decorre automaticamente da simples citação de norma sanitária. Validar juridicamente fornecimento isolado, parcelamento e critérios de remuneração.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 1. Fundamentos e limites de aplicação
+
+A Lei nº 14.133/2021 orienta planejamento (art. 18), estimativa de preços (art. 23), parcelamento de compras e serviços (arts. 40 e 47), cláusulas contratuais (art. 92), fiscalização (art. 117) e recebimento (art. 140). Aplicam-se o Decreto Estadual nº 1.525/2022 e alterações, com conferência da consolidação pela área jurídica. A inclusão no PCA deve observar os atos estaduais pertinentes, inclusive IN nº 002/2025/SEPLAG e sua alteração pela IN nº 003/2026/SEPLAG. A escolha de prontidão remunerada exige motivação própria; nenhuma dessas referências, isoladamente, aprova preço, modalidade, lote único ou contratação direta.
+
+### 6. Laboratório isolado e medicamentos isolados
+
+Laboratório isolado terá escopo de exames, tipo de serviço, responsabilidade técnica, licenciamento aplicável, fluxo de amostras, controle de qualidade, conservação, comunicação de resultados críticos e destinação de resíduos. Adotar como referência regulatória a RDC nº 978/2025 e a alteração RDC nº 986/2025, conferindo o texto consolidado para o enquadramento concreto. Medicamentos isolados terão catálogo validado pela assistência farmacêutica, especificação, quantidade, rastreabilidade de lote, validade mínima justificada, conservação, transporte, registro de temperatura quando aplicável e fluxo de rejeição/recolhimento. A RDC nº 430/2020 e alterações apoia a logística farmacêutica conforme atividade. Não cobrar montagem, diária hospitalar ou desmontagem inexistentes.
+
+### 11. Condições para concluir a versão de edital
+
+Permanecem pendentes de decisão institucional: solução e parcelamento, modalidade e critério de julgamento, catálogo e limites, quantitativos sustentados por dados, preços pesquisados, reserva orçamentária, SLAs, matriz de riscos, licenciamento e ato de competência. Menções anteriores a modalidade, técnica e preço, faixas de leitos, prazos ou percentuais são propostas a harmonizar na versão final. Não declarar a contratação aprovada ou pronta para publicação antes dessas validações. As diretrizes OMS para equipes médicas de emergência são referência técnica complementar; N0–N4 é classificação interna do projeto e não representa classificação ou certificação OMS.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).

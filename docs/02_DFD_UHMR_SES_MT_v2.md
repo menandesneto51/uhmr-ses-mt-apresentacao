@@ -2,9 +2,9 @@
 ## SECRETARIA DE ESTADO DE SAÚDE - SES-MT
 ### DOCUMENTO DE FORMALIZAÇÃO DA DEMANDA - UHMR
 
-**Código:** UHMR-DFD-001  
-**Versão:** 2.0 - minuta para instrução processual  
-**Data-base:** setembro de 2026  
+**Código:** UHMR-DFD-001
+**Versão:** 2.1 - minuta para instrução processual
+**Data-base:** setembro de 2026
 **Status:** sujeito à validação da unidade demandante e autoridade competente
 
 ---
@@ -33,7 +33,7 @@ A SES-MT necessita de mecanismo previamente planejado que permita:
 
 ## 3. Resultado pretendido
 
-Disponibilizar solução capaz de fornecer, após acionamento formal, módulos assistenciais e de suporte compatíveis com níveis de ativação previamente definidos, com indicadores objetivos de prontidão, mobilização, implantação, disponibilidade, qualidade, segurança e desmobilização.
+Disponibilizar solução capaz de fornecer, após acionamento formal, módulos assistenciais e de suporte selecionados conforme necessidade, inclusive fornecimento exclusivo de medicamentos, com níveis de referência, com indicadores objetivos de prontidão, mobilização, implantação, disponibilidade, qualidade, segurança e desmobilização.
 
 ## 4. Escopo preliminar
 
@@ -129,7 +129,7 @@ O ETP deverá comparar pelo menos:
 1. aquisição integral;
 2. locação;
 3. contratação por disponibilidade/prontidão;
-4. serviço integrado com ativação por nível;
+4. serviço integrado com ativação por configuração;
 5. modelos híbridos;
 6. eventual parcelamento por módulos;
 7. contratação separada de equipes assistenciais, quando tecnicamente e economicamente justificável.
@@ -203,3 +203,23 @@ A demanda deverá ser compatibilizada com:
 Recomenda-se a abertura/continuidade da fase de planejamento, com elaboração e validação do ETP v2, consolidação da base de dados, consulta estruturada ao mercado e construção da matriz mestre de requisitos.
 
 **Este DFD não define o vencedor, a modalidade, o quantitativo final ou o valor da contratação.**
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+A demanda abrange prontidão remunerada mesmo sem utilização, com requisição proporcional inclusive exclusiva de medicamentos. A memória de demanda deverá demonstrar a necessidade de cada item e a insuficiência da rede.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 2. Necessidade, alternativas e dimensionamento
+
+O ETP deverá comparar capacidade própria, locação com suporte, serviço integrado e aproveitamento de contratos ou capacidade existente, documentando investimento, custo anual, tempo de resposta, logística e risco de indisponibilidade. Para cada cenário, registrar fonte e data dos dados, população exposta, demanda provável e máxima plausível, capacidade operacional residual da rede, lacuna, duração e incerteza. Dimensionar a configuração para a lacuna demonstrada, sem usar capacidade cadastrada como sinônimo de capacidade disponível. Os números de leitos nas versões anteriores são referências de planejamento e não autorizam quantitativos ou preços.
+
+### 5. Dossiê de decisão e limites da OA
+
+O dossiê para o Secretário reunirá nota técnica assinada, evento e território, risco e cenários, insuficiência da rede, alternativas examinadas, configuração, dependências, cronograma, custo estimado, saldo contratual e disponibilidade orçamentária, além de recomendação de início, revisão e término. A decisão do Secretário e seus condicionantes serão anexados à OA identificada e datada. A formalização institucional dessa competência integra as providências prévias. A OA executa o objeto contratado e não substitui licitação, empenho, aditivo ou licença quando exigidos. Registrar reavaliações sempre que mudarem demanda, risco, acesso ou capacidade local.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).

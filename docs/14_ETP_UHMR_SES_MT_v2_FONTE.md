@@ -2,10 +2,10 @@
 ## SECRETARIA DE ESTADO DE SAÚDE - SES-MT
 ### ESTUDO TÉCNICO PRELIMINAR - UHMR
 
-**Código:** UHMR-ETP-001  
-**Versão:** 2.0 - fonte controlada  
-**Data-base:** setembro de 2026  
-**Situação:** minuta técnica para validação da equipe de planejamento  
+**Código:** UHMR-ETP-001
+**Versão:** 2.1 - fonte controlada
+**Data-base:** setembro de 2026
+**Situação:** minuta técnica para validação da equipe de planejamento
 **Observação:** este documento não autoriza contratação e deverá ser ajustado ao processo administrativo formal.
 
 ---
@@ -183,7 +183,7 @@ A solução deverá ser analisada por funções.
 
 ### 8.4 Assistência
 
-Conforme nível acionado:
+Conforme configuração efetivamente acionada:
 
 - triagem;
 - estabilização;
@@ -236,31 +236,31 @@ O contrato deve permitir ativação proporcional sem pagamento permanente pela c
 
 ### Alternativa A - aquisição integral pela SES-MT
 
-**Potenciais benefícios:** controle patrimonial, disponibilidade física própria.  
+**Potenciais benefícios:** controle patrimonial, disponibilidade física própria.
 **Riscos:** CAPEX elevado, armazenagem, manutenção, obsolescência, necessidade de logística e equipe próprias.
 
 ### Alternativa B - locação sob demanda
 
-**Potenciais benefícios:** menor imobilização.  
+**Potenciais benefícios:** menor imobilização.
 **Riscos:** disponibilidade incerta no momento do evento, prazo de contratação/mobilização, heterogeneidade de padrões.
 
 ### Alternativa C - serviço integrado de prontidão + ativação
 
-**Potenciais benefícios:** combina disponibilidade contratual, manutenção, mobilização, SLA e pagamento por nível.  
+**Potenciais benefícios:** combina disponibilidade contratual, manutenção, mobilização, SLA e pagamento por configuração.
 **Riscos:** custo de prontidão, complexidade contratual, necessidade de fiscalização robusta e prevenção de dependência.
 
 ### Alternativa D - modelo híbrido
 
 Patrimônio público para componentes estratégicos e contratação de módulos/logística/operação complementar.
 
-**Potenciais benefícios:** equilíbrio entre soberania e flexibilidade.  
+**Potenciais benefícios:** equilíbrio entre soberania e flexibilidade.
 **Riscos:** interfaces, divisão de responsabilidades e integração.
 
 ### Alternativa E - acordos/arranjos cooperativos
 
 Utilização de capacidades de outros entes e instituições, quando juridicamente e operacionalmente viável.
 
-**Potenciais benefícios:** compartilhamento.  
+**Potenciais benefícios:** compartilhamento.
 **Riscos:** disponibilidade não garantida e dependência de terceiros.
 
 ## 11. Análise preliminar das alternativas
@@ -308,7 +308,7 @@ Separar:
 - equipes;
 - consumíveis;
 - expansão;
-- manutenção extraordinária autorizada;
+- eventos extraordinários comprovados, sujeitos à matriz de riscos, sem transferir manutenção ordinária à SES-MT;
 - exercícios;
 - desmobilização;
 - recomposição da prontidão.
@@ -452,3 +452,27 @@ A solução deve deixar claro quais itens são do contrato principal e quais dep
 Há justificativa técnica para prosseguir com o planejamento de capacidade hospitalar modular de resposta, condicionada à confirmação de viabilidade por dados, consulta de mercado, custos, validações sanitárias, engenharia e análise jurídica.
 
 A solução recomendada somente deve ser consolidada após a comparação documentada das alternativas e a demonstração de vantagem para a Administração.
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+Comparar o custo de prontidão sem ativação e o custo incremental de configurações personalizadas. Registrar alternativas de atendimento pela rede, módulos e dependências. Os quantitativos N1 a N4 continuam como hipóteses, sem constituir pacote mínimo obrigatório.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 2. Necessidade, alternativas e dimensionamento
+
+O ETP deverá comparar capacidade própria, locação com suporte, serviço integrado e aproveitamento de contratos ou capacidade existente, documentando investimento, custo anual, tempo de resposta, logística e risco de indisponibilidade. Para cada cenário, registrar fonte e data dos dados, população exposta, demanda provável e máxima plausível, capacidade operacional residual da rede, lacuna, duração e incerteza. Dimensionar a configuração para a lacuna demonstrada, sem usar capacidade cadastrada como sinônimo de capacidade disponível. Os números de leitos nas versões anteriores são referências de planejamento e não autorizam quantitativos ou preços.
+
+### 3. Catálogo contratual e parcelamento
+
+Antes do edital, cadastrar cada módulo e fornecimento com código, descrição, unidade, capacidade, dependências, preço, teto quantitativo, prazo e forma de aceite. Separar leito disponível de paciente atendido, exame de diária laboratorial e unidade de medicamento de reserva de estoque. A ativação modular não equivale, por si, a parcelamento da licitação. Justificar contratação conjunta ou separada de medicamentos, laboratório, estrutura e operação, avaliando competição, responsabilidade técnica, integração e custo de gestão. Não permitir inclusão de item novo ou ampliação ilimitada por simples OA.
+
+### 11. Condições para concluir a versão de edital
+
+Permanecem pendentes de decisão institucional: solução e parcelamento, modalidade e critério de julgamento, catálogo e limites, quantitativos sustentados por dados, preços pesquisados, reserva orçamentária, SLAs, matriz de riscos, licenciamento e ato de competência. Menções anteriores a modalidade, técnica e preço, faixas de leitos, prazos ou percentuais são propostas a harmonizar na versão final. Não declarar a contratação aprovada ou pronta para publicação antes dessas validações. As diretrizes OMS para equipes médicas de emergência são referência técnica complementar; N0–N4 é classificação interna do projeto e não representa classificação ou certificação OMS.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).

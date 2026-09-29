@@ -1,8 +1,8 @@
 # SES-MT - UHMR
 ## Matriz de Requisitos Sanitários e Assistenciais
 
-**Código:** UHMR-SAN-001  
-**Versão:** 2.0 - minuta para validação  
+**Código:** UHMR-SAN-001
+**Versão:** 2.1 - minuta para validação
 **Regra:** requisitos abaixo são referências de projeto; a incidência concreta deve ser validada pela Vigilância Sanitária e pelas áreas técnicas.
 
 | Domínio | Requisito de projeto | Referência principal | Evidência de aceite |
@@ -42,3 +42,23 @@
 5. Sempre distinguir requisito de implantação, requisito de operação e requisito de prontidão.
 6. Requisitos de engenharia devem ser assinados/validados por profissional competente.
 7. A autoridade sanitária deverá validar o enquadramento da solução modular e as autorizações necessárias antes da operação assistencial.
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+No fornecimento isolado, verificar regularidade dos produtos e das atividades, conservação, lote, validade e responsável farmacêutico. Para laboratório isolado, validar os requisitos específicos da atividade e suportes necessários, sem presumir dispensa de licença. Requisitos hospitalares incidem apenas quando a atividade os exigir.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 6. Laboratório isolado e medicamentos isolados
+
+Laboratório isolado terá escopo de exames, tipo de serviço, responsabilidade técnica, licenciamento aplicável, fluxo de amostras, controle de qualidade, conservação, comunicação de resultados críticos e destinação de resíduos. Adotar como referência regulatória a RDC nº 978/2025 e a alteração RDC nº 986/2025, conferindo o texto consolidado para o enquadramento concreto. Medicamentos isolados terão catálogo validado pela assistência farmacêutica, especificação, quantidade, rastreabilidade de lote, validade mínima justificada, conservação, transporte, registro de temperatura quando aplicável e fluxo de rejeição/recolhimento. A RDC nº 430/2020 e alterações apoia a logística farmacêutica conforme atividade. Não cobrar montagem, diária hospitalar ou desmontagem inexistentes.
+
+### 10. Recebimento e responsabilidades
+
+Distinguir aceite inicial e mensal da prontidão, liberação para funcionamento e recebimento de produtos. Fiscal técnico verifica execução; gestor coordena providências; área demandante fundamenta necessidade; assistência farmacêutica valida medicamentos; engenharia clínica valida equipamentos; autoridade sanitária atua em sua competência. As designações precisam ser formalizadas. Para módulo assistencial, anexar testes, registros profissionais, equipe, fluxos e licenças aplicáveis antes da abertura. Para fornecimento isolado, usar termo de recebimento por item e registrar recusas. Não considerar o silêncio da fiscalização como aceite.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).

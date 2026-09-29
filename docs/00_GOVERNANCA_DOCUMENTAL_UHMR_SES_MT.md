@@ -2,11 +2,11 @@
 ## SECRETARIA DE ESTADO DE SAÚDE - SES-MT
 ### UHMR - Unidade Hospitalar Modular de Resposta a Emergências
 
-**Documento:** Governança Documental e Padrão Institucional  
-**Código:** UHMR-GOV-001  
-**Versão:** 2.0 - minuta técnica  
-**Data-base:** setembro de 2026  
-**Situação:** em validação técnica, administrativa, sanitária, orçamentária e jurídica  
+**Documento:** Governança Documental e Padrão Institucional
+**Código:** UHMR-GOV-001
+**Versão:** 2.1 - minuta técnica
+**Data-base:** setembro de 2026
+**Situação:** em validação técnica, administrativa, sanitária, orçamentária e jurídica
 **Classificação:** documento de planejamento - não autoriza contratação
 
 ---
@@ -180,3 +180,19 @@ O Cursor será o ambiente padrão de manutenção técnica do projeto. Toda alte
 ## 10. Status
 
 Este documento estabelece o padrão da versão 2.0 e deve ser utilizado como referência para a revisão dos arquivos 00 a 06 existentes.
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+Registrar a decisão de projeto de 28/09/2026 e manter sincronia entre fontes, Word, PDF, planilhas e apresentação. A adoção destas premissas não equivale à aprovação administrativa da contratação.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 11. Condições para concluir a versão de edital
+
+Permanecem pendentes de decisão institucional: solução e parcelamento, modalidade e critério de julgamento, catálogo e limites, quantitativos sustentados por dados, preços pesquisados, reserva orçamentária, SLAs, matriz de riscos, licenciamento e ato de competência. Menções anteriores a modalidade, técnica e preço, faixas de leitos, prazos ou percentuais são propostas a harmonizar na versão final. Não declarar a contratação aprovada ou pronta para publicação antes dessas validações. As diretrizes OMS para equipes médicas de emergência são referência técnica complementar; N0–N4 é classificação interna do projeto e não representa classificação ou certificação OMS.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).

@@ -2,8 +2,8 @@
 ## SECRETARIA DE ESTADO DE SAÚDE - SES-MT
 ### UHMR - Plano de Gestão e Fiscalização Contratual
 
-**Código:** UHMR-FIS-001  
-**Versão:** 2.0 - minuta técnica  
+**Código:** UHMR-FIS-001
+**Versão:** 2.1 - minuta técnica
 **Data-base:** setembro de 2026
 
 ## 1. Objetivo
@@ -111,7 +111,7 @@ A planilha de medição deve separar, conforme o modelo contratual aprovado:
 2. mobilização;
 3. transporte;
 4. implantação;
-5. operação por nível;
+5. operação por configuração;
 6. módulos adicionais;
 7. equipes, quando contratadas;
 8. consumíveis;
@@ -186,3 +186,27 @@ A fiscalização deverá produzir painel/relatório com:
 ## 11. Auditoria
 
 Toda medição deve ser reproduzível a partir das evidências armazenadas no processo administrativo e nos sistemas institucionais autorizados.
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+Medição N0: inventário, disponibilidade por componente, manutenção realizada, calibração aplicável, testes, estoque e cobertura de substituição. Medição de missão: confrontar OA do Secretário, itens entregues, período, preços e exclusões. Exigir declaração e conferência de ausência de dupla cobrança.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 7. Formação de preços, medição e vedação à duplicidade
+
+A pesquisa de mercado deverá solicitar composição homogênea para N0, dez leitos, laboratório, medicamentos e missão combinada, incluindo distâncias e durações comparáveis. Separar reserva de estoque, aquisição, consumo e reposição; esclarecer titularidade e destino dos saldos. O mapa de custos indicará o que cada preço inclui. Na medição mensal, conciliar OA, boletim de execução, inventário, aceite, nota fiscal e histórico de pagamentos. Suporte compartilhado e manutenção ordinária não geram cobrança duplicada. Para insumos pagos por unidade entregue e aceita, não cobrar novamente reposição da mesma entrega. A continuidade do N0 durante a missão depende das obrigações que permanecem e da segregação de custos.
+
+### 8. Indicadores e tratamento da indisponibilidade
+
+Proposta de indicadores: disponibilidade por componente = horas de capacidade disponível e comprovada / horas de capacidade contratada; manutenção preventiva no prazo = intervenções concluídas no prazo / intervenções devidas; entrega conforme = unidades aceitas / unidades entregues. Denominador zero será registrado como não aplicável. Registrar também tempo da OA ao recebimento, tempo até liberação e falhas críticas. Metas, janelas de apuração, tolerâncias, substituição e regra proporcional de medição devem ser validadas antes do edital. Não fixar percentuais de glosa arbitrários nem confundir redução por serviço não prestado com sanção administrativa. Impedimentos atribuíveis à SES ou a terceiros serão registrados e tratados conforme matriz de riscos.
+
+### 10. Recebimento e responsabilidades
+
+Distinguir aceite inicial e mensal da prontidão, liberação para funcionamento e recebimento de produtos. Fiscal técnico verifica execução; gestor coordena providências; área demandante fundamenta necessidade; assistência farmacêutica valida medicamentos; engenharia clínica valida equipamentos; autoridade sanitária atua em sua competência. As designações precisam ser formalizadas. Para módulo assistencial, anexar testes, registros profissionais, equipe, fluxos e licenças aplicáveis antes da abertura. Para fornecimento isolado, usar termo de recebimento por item e registrar recusas. Não considerar o silêncio da fiscalização como aceite.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).

@@ -53,7 +53,7 @@ O Cursor é o ambiente padrão de manutenção técnica.
 
 ## Escopo
 
-A proposta contempla prontidão, transporte, implantação, operação, manutenção e desmobilização de capacidade hospitalar temporária modular, com níveis acumulativos N0–N4.
+A proposta contempla prontidão, transporte, implantação, operação, manutenção e desmobilização de capacidade hospitalar temporária modular, com N0 de prontidão remunerada e N1–N4 referenciais, sem ativação cumulativa obrigatória.
 
 Os quantitativos da versão 1.0 permanecem parâmetros preliminares e deverão ser confirmados por memória de cálculo, dados estaduais, consulta ao mercado, validações sanitárias, engenharia e análise de custo.
 
@@ -70,3 +70,8 @@ A UHMR deverá possuir seus próprios assets oficiais em `assets/`. A dependênc
 ## Publicação
 
 A versão pública atual permanece em GitHub Pages. A v2 somente substituirá a versão publicada após auditoria documental, QA visual e promoção controlada para `main`.
+
+
+## Revisão 2.1 de 28/09/2026
+
+Configuração flexível, inclusive medicamentos isolados; manutenção ordinária custeada pela empresa e incluída nos preços; acionamento pelo Secretário com documentação, risco e cenários. Consulte docs/26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md. A aba Acionamento nas planilhas calcula a missão por itens. Os nomes legados são preservados para compatibilidade; a revisão interna identifica o conteúdo atualizado.

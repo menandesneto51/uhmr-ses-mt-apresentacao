@@ -1,8 +1,8 @@
 # SES-MT - UHMR
 ## Matriz de Equipamentos e Engenharia Clínica
 
-**Código:** UHMR-ENG-002  
-**Versão:** 2.0 - estrutura de dimensionamento
+**Código:** UHMR-ENG-002
+**Versão:** 2.1 - estrutura de dimensionamento
 
 ## Campos obrigatórios
 
@@ -85,3 +85,19 @@
 4. consumíveis proprietários devem ser explicitados e analisados quanto a dependência;
 5. manutenção e calibração devem compor o custo;
 6. quantitativos finais devem derivar do dimensionamento clínico.
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+Para cada ativo registrar identificação, fabricante, risco, periodicidade preventiva, última/próxima manutenção, calibração aplicável, teste, responsável, evidência e cobertura durante indisponibilidade. A empresa custeia manutenção, peças e substituição, com custos inclusos e sem parcela adicional ordinária.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 4. Prontidão verificável e manutenção
+
+O aceite inicial do N0 exige inventário identificável, localização dos bens, estado de conservação, testes funcionais, plano de manutenção, capacidade de mobilização e responsáveis. Mensalmente, a empresa entregará posição do inventário, intervenções previstas e realizadas, falhas, substituições, reservas e evidência da capacidade garantida. A empresa executa e custeia manutenção preventiva e corretiva ordinária, calibração aplicável, peças e testes, inclusive sem missões, em preços já contratados. Definir contratualmente capacidade reservada, exclusividade ou compartilhamento admitido e resposta a missões simultâneas; não remunerar como exclusiva uma capacidade comprometida com terceiros. A RDC nº 509/2021 sustenta plano, registros e rastreabilidade; terceirizar a gestão não elimina a responsabilidade sanitária do estabelecimento.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).

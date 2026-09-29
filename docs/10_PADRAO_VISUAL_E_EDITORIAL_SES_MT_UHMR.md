@@ -2,8 +2,8 @@
 ## SECRETARIA DE ESTADO DE SAÚDE - SES-MT
 ### UHMR - Padrão Visual e Editorial
 
-**Código:** UHMR-GOV-004  
-**Versão:** 2.0 - minuta de padronização
+**Código:** UHMR-GOV-004
+**Versão:** 2.1 - minuta de padronização
 
 ## 1. Referência institucional
 
@@ -26,7 +26,7 @@ https://www.saude.mt.gov.br/storage/files/DX3MU1BtQY64uTTvHiGbjUwApAOMJoN3BUqmFX
 
 Padrão textual:
 
-Governo de Mato Grosso  
+Governo de Mato Grosso
 SECRETARIA DE ESTADO DE SAÚDE
 
 Abaixo, identificar unidade responsável quando formalmente definida.
@@ -104,3 +104,21 @@ Documentos técnicos devem utilizar:
 ## 11. Controle de compatibilidade
 
 DOCX e PPTX finais devem ser abertos e verificados antes da entrega. O PDF deverá ser gerado a partir da versão validada e comparado visualmente.
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+Em tabelas e slides, usar “nível de referência” e “configuração efetiva”. Não representar N1 a N4 como degraus obrigatórios. N0 deve ser identificado como prontidão remunerada, sem leitos ativos. Preservar títulos, fontes, identidade SES-MT e legibilidade.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+Critério de aceite editorial: leitura integral e conferência visual de títulos, fontes, tabelas e correspondência entre nível de referência e configuração efetiva.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 11. Condições para concluir a versão de edital
+
+Permanecem pendentes de decisão institucional: solução e parcelamento, modalidade e critério de julgamento, catálogo e limites, quantitativos sustentados por dados, preços pesquisados, reserva orçamentária, SLAs, matriz de riscos, licenciamento e ato de competência. Menções anteriores a modalidade, técnica e preço, faixas de leitos, prazos ou percentuais são propostas a harmonizar na versão final. Não declarar a contratação aprovada ou pronta para publicação antes dessas validações. As diretrizes OMS para equipes médicas de emergência são referência técnica complementar; N0–N4 é classificação interna do projeto e não representa classificação ou certificação OMS.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).

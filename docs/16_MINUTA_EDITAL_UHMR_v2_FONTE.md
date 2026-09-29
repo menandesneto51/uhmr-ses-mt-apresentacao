@@ -2,9 +2,9 @@
 ## SECRETARIA DE ESTADO DE SAÚDE - SES-MT
 ### MINUTA DE EDITAL - UHMR
 
-**Código:** UHMR-EDT-001  
-**Versão:** 2.0 - fonte controlada  
-**Status:** minuta para revisão administrativa e jurídica  
+**Código:** UHMR-EDT-001
+**Versão:** 2.1 - fonte controlada
+**Status:** minuta para revisão administrativa e jurídica
 **Regra:** nenhum requisito deste documento prevalece sobre o ETP/TR aprovado.
 
 ## 1. Objeto
@@ -177,3 +177,23 @@ O edital não poderá ser publicado enquanto houver:
 - prazo crítico sem validação de exequibilidade;
 - quantitativo sem memória de cálculo;
 - base normativa não verificada.
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+Exigir proposta compatível com N0 e preços por item/módulo, com unidades e limites claros. O fornecimento isolado de medicamentos deverá constar do objeto e da análise de parcelamento. Não exigir compra do pacote hospitalar completo para atender requisição parcial.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 3. Catálogo contratual e parcelamento
+
+Antes do edital, cadastrar cada módulo e fornecimento com código, descrição, unidade, capacidade, dependências, preço, teto quantitativo, prazo e forma de aceite. Separar leito disponível de paciente atendido, exame de diária laboratorial e unidade de medicamento de reserva de estoque. A ativação modular não equivale, por si, a parcelamento da licitação. Justificar contratação conjunta ou separada de medicamentos, laboratório, estrutura e operação, avaliando competição, responsabilidade técnica, integração e custo de gestão. Não permitir inclusão de item novo ou ampliação ilimitada por simples OA.
+
+### 11. Condições para concluir a versão de edital
+
+Permanecem pendentes de decisão institucional: solução e parcelamento, modalidade e critério de julgamento, catálogo e limites, quantitativos sustentados por dados, preços pesquisados, reserva orçamentária, SLAs, matriz de riscos, licenciamento e ato de competência. Menções anteriores a modalidade, técnica e preço, faixas de leitos, prazos ou percentuais são propostas a harmonizar na versão final. Não declarar a contratação aprovada ou pronta para publicação antes dessas validações. As diretrizes OMS para equipes médicas de emergência são referência técnica complementar; N0–N4 é classificação interna do projeto e não representa classificação ou certificação OMS.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).

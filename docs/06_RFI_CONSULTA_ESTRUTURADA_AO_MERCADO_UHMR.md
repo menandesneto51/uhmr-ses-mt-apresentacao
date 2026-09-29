@@ -1,8 +1,8 @@
 # SES-MT - UHMR
 ## RFI - Consulta Estruturada ao Mercado
 
-**Código:** UHMR-RFI-001  
-**Versão:** 2.0 - minuta para validação  
+**Código:** UHMR-RFI-001
+**Versão:** 2.1 - minuta para validação
 **Natureza:** instrumento de levantamento de mercado; não constitui licitação, promessa de contratação ou preferência por fornecedor.
 
 ## 1. Objetivo
@@ -189,3 +189,23 @@ Solicitar exemplos anonimizados ou públicos de:
 ## 14. Uso das respostas
 
 As respostas serão utilizadas exclusivamente como insumo de planejamento e deverão ser analisadas de forma comparativa, preservando a impessoalidade e a justificativa técnica das decisões posteriores.
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+Solicitar preços e capacidade para quatro casos comparáveis: N0 sem uso, dez leitos, laboratório isolado e medicamentos isolados. Exigir composição da mensalidade, manutenção inclusa, preços unitários, dependências compartilhadas, mínimos comerciais justificados, prazos e política de reposição/validade. Não converter mínimos comerciais em obrigação automática.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 3. Catálogo contratual e parcelamento
+
+Antes do edital, cadastrar cada módulo e fornecimento com código, descrição, unidade, capacidade, dependências, preço, teto quantitativo, prazo e forma de aceite. Separar leito disponível de paciente atendido, exame de diária laboratorial e unidade de medicamento de reserva de estoque. A ativação modular não equivale, por si, a parcelamento da licitação. Justificar contratação conjunta ou separada de medicamentos, laboratório, estrutura e operação, avaliando competição, responsabilidade técnica, integração e custo de gestão. Não permitir inclusão de item novo ou ampliação ilimitada por simples OA.
+
+### 7. Formação de preços, medição e vedação à duplicidade
+
+A pesquisa de mercado deverá solicitar composição homogênea para N0, dez leitos, laboratório, medicamentos e missão combinada, incluindo distâncias e durações comparáveis. Separar reserva de estoque, aquisição, consumo e reposição; esclarecer titularidade e destino dos saldos. O mapa de custos indicará o que cada preço inclui. Na medição mensal, conciliar OA, boletim de execução, inventário, aceite, nota fiscal e histórico de pagamentos. Suporte compartilhado e manutenção ordinária não geram cobrança duplicada. Para insumos pagos por unidade entregue e aceita, não cobrar novamente reposição da mesma entrega. A continuidade do N0 durante a missão depende das obrigações que permanecem e da segregação de custos.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).

@@ -1,8 +1,8 @@
 # SES-MT - UHMR
 ## Checklist de Conformidade Pré-Edital
 
-**Código:** UHMR-GOV-002  
-**Versão:** 2.0 - minuta  
+**Código:** UHMR-GOV-002
+**Versão:** 2.1 - minuta
 **Uso:** gate de liberação para submissão às instâncias formais.
 
 ## A. Governança
@@ -140,3 +140,19 @@
 **Responsável pela verificação:**
 
 **Data:**
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+Antes do edital, conferir: N0 remunerado com evidências; não cumulatividade; catálogo de medicamentos; manutenção sem cobrança extra; competência do Secretário formalizada; OA com risco e cenários; preços por configuração; limites contratuais; critérios de aceite e ausência de duplicidade.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 11. Condições para concluir a versão de edital
+
+Permanecem pendentes de decisão institucional: solução e parcelamento, modalidade e critério de julgamento, catálogo e limites, quantitativos sustentados por dados, preços pesquisados, reserva orçamentária, SLAs, matriz de riscos, licenciamento e ato de competência. Menções anteriores a modalidade, técnica e preço, faixas de leitos, prazos ou percentuais são propostas a harmonizar na versão final. Não declarar a contratação aprovada ou pronta para publicação antes dessas validações. As diretrizes OMS para equipes médicas de emergência são referência técnica complementar; N0–N4 é classificação interna do projeto e não representa classificação ou certificação OMS.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).

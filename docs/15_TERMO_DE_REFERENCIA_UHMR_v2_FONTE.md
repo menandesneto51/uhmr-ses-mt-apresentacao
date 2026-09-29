@@ -2,9 +2,9 @@
 ## SECRETARIA DE ESTADO DE SAÚDE - SES-MT
 ### TERMO DE REFERÊNCIA - UHMR
 
-**Código:** UHMR-TR-001  
-**Versão:** 2.0 - fonte controlada  
-**Data-base:** setembro de 2026  
+**Código:** UHMR-TR-001
+**Versão:** 2.1 - fonte controlada
+**Data-base:** setembro de 2026
 **Status:** minuta técnica dependente da conclusão do ETP e validações formais
 
 ---
@@ -59,9 +59,9 @@ Ampliação escalável da capacidade N3 até limite contratual e tecnicamente su
 
 ## 6. Regras de acionamento
 
-A SES-MT emitirá ordem formal contendo, no mínimo:
+O Secretário de Estado de Saúde autorizará o acionamento, fundamentado em documentação técnica, análise de risco e cenários. A ordem formal conterá, no mínimo:
 
-- nível;
+- nível de referência e configuração efetiva;
 - local;
 - data/hora;
 - contato de comando;
@@ -314,7 +314,7 @@ Separar, quando aplicável:
 - mobilização;
 - transporte;
 - implantação;
-- operação por nível;
+- operação por configuração;
 - módulos adicionais;
 - equipes;
 - consumíveis;
@@ -505,3 +505,39 @@ A estimativa deverá preservar a comparabilidade das parcelas e explicitar premi
 - definir seguros;
 - definir SLAs finais;
 - validar juridicamente.
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+O objeto inclui fornecimento isolado de medicamentos e insumos do catálogo contratual. A OA do Secretário discrimina configuração, itens, quantidades, risco, cenários e custo. Pagamentos variáveis limitam-se ao escopo acionado e aceito, com suportes justificados e manutenção ordinária inclusa.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 3. Catálogo contratual e parcelamento
+
+Antes do edital, cadastrar cada módulo e fornecimento com código, descrição, unidade, capacidade, dependências, preço, teto quantitativo, prazo e forma de aceite. Separar leito disponível de paciente atendido, exame de diária laboratorial e unidade de medicamento de reserva de estoque. A ativação modular não equivale, por si, a parcelamento da licitação. Justificar contratação conjunta ou separada de medicamentos, laboratório, estrutura e operação, avaliando competição, responsabilidade técnica, integração e custo de gestão. Não permitir inclusão de item novo ou ampliação ilimitada por simples OA.
+
+### 4. Prontidão verificável e manutenção
+
+O aceite inicial do N0 exige inventário identificável, localização dos bens, estado de conservação, testes funcionais, plano de manutenção, capacidade de mobilização e responsáveis. Mensalmente, a empresa entregará posição do inventário, intervenções previstas e realizadas, falhas, substituições, reservas e evidência da capacidade garantida. A empresa executa e custeia manutenção preventiva e corretiva ordinária, calibração aplicável, peças e testes, inclusive sem missões, em preços já contratados. Definir contratualmente capacidade reservada, exclusividade ou compartilhamento admitido e resposta a missões simultâneas; não remunerar como exclusiva uma capacidade comprometida com terceiros. A RDC nº 509/2021 sustenta plano, registros e rastreabilidade; terceirizar a gestão não elimina a responsabilidade sanitária do estabelecimento.
+
+### 5. Dossiê de decisão e limites da OA
+
+O dossiê para o Secretário reunirá nota técnica assinada, evento e território, risco e cenários, insuficiência da rede, alternativas examinadas, configuração, dependências, cronograma, custo estimado, saldo contratual e disponibilidade orçamentária, além de recomendação de início, revisão e término. A decisão do Secretário e seus condicionantes serão anexados à OA identificada e datada. A formalização institucional dessa competência integra as providências prévias. A OA executa o objeto contratado e não substitui licitação, empenho, aditivo ou licença quando exigidos. Registrar reavaliações sempre que mudarem demanda, risco, acesso ou capacidade local.
+
+### 6. Laboratório isolado e medicamentos isolados
+
+Laboratório isolado terá escopo de exames, tipo de serviço, responsabilidade técnica, licenciamento aplicável, fluxo de amostras, controle de qualidade, conservação, comunicação de resultados críticos e destinação de resíduos. Adotar como referência regulatória a RDC nº 978/2025 e a alteração RDC nº 986/2025, conferindo o texto consolidado para o enquadramento concreto. Medicamentos isolados terão catálogo validado pela assistência farmacêutica, especificação, quantidade, rastreabilidade de lote, validade mínima justificada, conservação, transporte, registro de temperatura quando aplicável e fluxo de rejeição/recolhimento. A RDC nº 430/2020 e alterações apoia a logística farmacêutica conforme atividade. Não cobrar montagem, diária hospitalar ou desmontagem inexistentes.
+
+### 7. Formação de preços, medição e vedação à duplicidade
+
+A pesquisa de mercado deverá solicitar composição homogênea para N0, dez leitos, laboratório, medicamentos e missão combinada, incluindo distâncias e durações comparáveis. Separar reserva de estoque, aquisição, consumo e reposição; esclarecer titularidade e destino dos saldos. O mapa de custos indicará o que cada preço inclui. Na medição mensal, conciliar OA, boletim de execução, inventário, aceite, nota fiscal e histórico de pagamentos. Suporte compartilhado e manutenção ordinária não geram cobrança duplicada. Para insumos pagos por unidade entregue e aceita, não cobrar novamente reposição da mesma entrega. A continuidade do N0 durante a missão depende das obrigações que permanecem e da segregação de custos.
+
+### 10. Recebimento e responsabilidades
+
+Distinguir aceite inicial e mensal da prontidão, liberação para funcionamento e recebimento de produtos. Fiscal técnico verifica execução; gestor coordena providências; área demandante fundamenta necessidade; assistência farmacêutica valida medicamentos; engenharia clínica valida equipamentos; autoridade sanitária atua em sua competência. As designações precisam ser formalizadas. Para módulo assistencial, anexar testes, registros profissionais, equipe, fluxos e licenças aplicáveis antes da abertura. Para fornecimento isolado, usar termo de recebimento por item e registrar recusas. Não considerar o silêncio da fiscalização como aceite.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).

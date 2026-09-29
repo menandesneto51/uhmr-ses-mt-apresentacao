@@ -1,9 +1,9 @@
 # SES-MT - UHMR
 ## Matriz de Riscos de Planejamento, Contratação e Operação
 
-**Código:** UHMR-RSK-001  
-**Versão:** 2.0 - minuta técnica  
-**Escala:** Probabilidade (P) e Impacto (I): 1 a 5. Nível inicial = P x I.  
+**Código:** UHMR-RSK-001
+**Versão:** 2.1 - minuta técnica
+**Escala:** Probabilidade (P) e Impacto (I): 1 a 5. Nível inicial = P x I.
 **Nota:** a matriz contratual final deve observar o enquadramento da contratação e o Decreto Estadual nº 1.525/2022.
 
 | ID | Risco | Fase | P | I | Nível | Tratamento mínimo | Responsável primário |
@@ -24,7 +24,7 @@
 | R14 | falha de isolamento/fluxos | operação | 3 | 5 | 15 | validação sanitária e testes | VISA/assistência |
 | R15 | equipamentos sem manutenção | prontidão | 3 | 5 | 15 | plano de manutenção e rastreabilidade | engenharia clínica |
 | R16 | falta de consumíveis | operação | 4 | 4 | 16 | estoque mínimo e reposição por SLA | logística |
-| R17 | recursos humanos insuficientes | operação | 4 | 5 | 20 | dimensionamento por nível + banco de contingência | assistência |
+| R17 | recursos humanos insuficientes | operação | 4 | 5 | 20 | dimensionamento por configuração + banco de contingência | assistência |
 | R18 | falha de integração com regulação | operação | 3 | 5 | 15 | fluxo pré-definido e simulação | regulação |
 | R19 | incidente de segurança do paciente | operação | 3 | 5 | 15 | protocolos, NSP/arranjo equivalente e notificação | assistência |
 | R20 | infecção relacionada à assistência | operação | 3 | 5 | 15 | PCIH/CCIH aplicável, fluxos e vigilância | assistência/VISA |
@@ -60,3 +60,19 @@ A versão de execução deverá acrescentar:
 - responsável nominal/função;
 - risco residual;
 - evidência de fechamento.
+
+
+## Revisão de prontidão e acionamento em 28 de setembro de 2026
+
+Incluir riscos de acionamento sem autorização do Secretário, módulos desnecessários, dupla cobrança, indisponibilidade durante manutenção, vencimento e quebra de cadeia de frio. A contratada responde pela manutenção e perdas sob sua responsabilidade; fiscalização registra evidências e aplica o tratamento contratual.
+
+Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md). Situação: minuta para validação institucional.
+
+
+## Complementação técnica e normativa — revisão 2.1
+
+### 9. Matriz de riscos e continuidade
+
+Atribuir à empresa falha ordinária de equipamento, manutenção vencida, conservação inadequada e perda por vencimento sob sua gestão; prever substituição e recomposição sem preço adicional ordinário. Identificar separadamente acesso bloqueado, sítio inadequado, falha de utilidades locais, demanda simultânea e atraso de licença, com responsável, prevenção, contingência, evidência e consequência contratual. A imputação dependerá da causa documentada e da alocação pactuada. Para assistência, prever referência e transporte seguro de pacientes; para laboratório, rede de apoio; para medicamentos, fornecedor e rota alternativos autorizados. O encerramento exige transferência assistencial, reconciliação de estoques e liberação do sítio.
+
+Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).
