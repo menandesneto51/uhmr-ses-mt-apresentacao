@@ -75,3 +75,14 @@ A versão pública atual permanece em GitHub Pages. A v2 somente substituirá a 
 ## Revisão 2.1 de 28/09/2026
 
 Configuração flexível, inclusive medicamentos isolados; manutenção ordinária custeada pela empresa e incluída nos preços; acionamento pelo Secretário com documentação, risco e cenários. Consulte docs/26_DIRETRIZES_PRONTIDAO_ACIONAMENTO_UHMR.md. A aba Acionamento nas planilhas calcula a missão por itens. Os nomes legados são preservados para compatibilidade; a revisão interna identifica o conteúdo atualizado.
+
+## Revisão 2.2 — benchmark FN-SUS
+
+Incorporada a Consulta Pública FN-SUS nº 04/2026 como benchmark técnico contemporâneo. A revisão preserva o modelo UHMR de N0 de prontidão remunerada e acionamento modular, distinguindo-o da aquisição patrimonial federal.
+
+Novas fontes:
+- `docs/28_BENCHMARK_FNSUS_CONSULTA_PUBLICA_04_2026.md`;
+- `docs/29_MATRIZ_RESPONSABILIDADES_E_CUSTOS_MODULARES_UHMR.md`;
+- `docs/30_RELATORIO_VALIDACAO_AGENTES_REVISAO_2_2.md`.
+
+A minuta 2.2 está apta à continuidade do planejamento e RFI; publicação de edital permanece bloqueada pelos gates registrados no relatório de validação.
