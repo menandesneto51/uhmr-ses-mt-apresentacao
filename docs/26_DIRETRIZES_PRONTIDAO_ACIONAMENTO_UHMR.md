@@ -3,7 +3,7 @@
 ## Diretrizes de prontidão e acionamento
 
 **Código:** UHMR-GOV-007
-**Versão:** 2.1 — 28/09/2026
+**Versão:** 2.2 — 28/09/2026
 **Situação:** minuta para validação institucional
 
 ## N0 e remuneração da prontidão
@@ -37,3 +37,9 @@ ANVISA. RDC nº 509, de 27 de maio de 2021. Gerenciamento de tecnologias em saú
 ANVISA. Perguntas e respostas sobre a RDC nº 430/2020, atualizadas com a RDC nº 653/2022. Distribuição, armazenagem e transporte de medicamentos. Disponível em: https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/certificacao-e-fiscalizacao/perguntas-e-respostas/perguntas-e-respostas-rdc-430-de-2020.pdf. Acesso em: 28 set. 2026.
 
 A aplicabilidade sanitária deve ser confirmada por atividade na versão final. As referências apoiam requisitos de gestão e qualidade; não substituem a formalização das escolhas contratuais e da competência de acionamento.
+
+## Benchmark FN-SUS incorporado na revisão 2.2
+
+A Consulta Pública nº 04/2026 da FN-SUS confirma, como referência de mercado federal, a relevância de ativação parcial independente, testes de aceitação, manutenção, peças, reparo, ciclo de vida e custos de armazenamento/mobilização. O Relatório Final reforça matriz de responsabilidades e prontidão/recondicionamento.
+
+A UHMR não adotará automaticamente o modelo federal de aquisição. O uso dessa referência deve preservar o desenho estadual de capacidade contratada em prontidão e acionamento modular. A ausência de precificação significativa na consulta federal mantém a pesquisa de preços própria como gate obrigatório.
