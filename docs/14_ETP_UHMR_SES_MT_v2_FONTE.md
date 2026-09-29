@@ -3,7 +3,7 @@
 ### ESTUDO TÉCNICO PRELIMINAR - UHMR
 
 **Código:** UHMR-ETP-001
-**Versão:** 2.1 - fonte controlada
+**Versão:** 2.2 - fonte controlada
 **Data-base:** setembro de 2026
 **Situação:** minuta técnica para validação da equipe de planejamento
 **Observação:** este documento não autoriza contratação e deverá ser ajustado ao processo administrativo formal.
@@ -476,3 +476,17 @@ Antes do edital, cadastrar cada módulo e fornecimento com código, descrição,
 Permanecem pendentes de decisão institucional: solução e parcelamento, modalidade e critério de julgamento, catálogo e limites, quantitativos sustentados por dados, preços pesquisados, reserva orçamentária, SLAs, matriz de riscos, licenciamento e ato de competência. Menções anteriores a modalidade, técnica e preço, faixas de leitos, prazos ou percentuais são propostas a harmonizar na versão final. Não declarar a contratação aprovada ou pronta para publicação antes dessas validações. As diretrizes OMS para equipes médicas de emergência são referência técnica complementar; N0–N4 é classificação interna do projeto e não representa classificação ou certificação OMS.
 
 Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).
+
+## Revisão 2.2 — benchmark FN-SUS e ciclo de vida
+
+A Consulta Pública nº 04/2026 da Diretoria da Força Nacional do SUS, vinculada ao Processo SEI nº 25000.122539/2026-97, passa a ser benchmark técnico federal prioritário para esta etapa do planejamento. O Caderno federal trata futura aquisição de Hospital de Campanha Modular com referência EMT Tipo 2 e consulta explicitamente o mercado sobre ativação parcial independente, FAT/SAT, manutenção, peças, reparo em campo e custos de ciclo de vida.
+
+A comparação não implica adoção automática do modelo federal. Na consulta da FN-SUS o objeto é aquisição; na hipótese UHMR SES-MT avalia-se serviço integrado de prontidão N0 e acionamentos modulares. O Relatório Final federal reforça a necessidade de matriz de responsabilidades, prontidão, manutenção e recondicionamento pós-missão.
+
+A análise de alternativas deverá, portanto, comparar ao menos: aquisição patrimonial pela SES-MT; serviço integrado de prontidão e ativação; solução híbrida; e capacidades cooperativas. A comparação deve incluir CAPEX/OPEX, ciclo de vida, guarda, manutenção, obsolescência, pessoal/logística próprios, tempo de resposta e risco de indisponibilidade.
+
+A autonomia de água, energia, combustível, oxigênio e demais utilidades não será copiada como número fixo de outra contratação. Será definida por memória de cálculo compatível com a configuração e duração da missão, prevendo contingência e reabastecimento.
+
+A consulta federal não produziu contribuições significativas de precificação; por isso o orçamento da UHMR permanece condicionado a pesquisa própria nos termos do art. 23 da Lei nº 14.133/2021 e do regulamento estadual.
+
+Referências controladas: [Benchmark FN-SUS](28_BENCHMARK_FNSUS_CONSULTA_PUBLICA_04_2026.md) e [Matriz de responsabilidades e custos modulares](29_MATRIZ_RESPONSABILIDADES_E_CUSTOS_MODULARES_UHMR.md).
