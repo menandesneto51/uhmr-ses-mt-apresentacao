@@ -209,3 +209,23 @@ Antes do edital, cadastrar cada módulo e fornecimento com código, descrição,
 A pesquisa de mercado deverá solicitar composição homogênea para N0, dez leitos, laboratório, medicamentos e missão combinada, incluindo distâncias e durações comparáveis. Separar reserva de estoque, aquisição, consumo e reposição; esclarecer titularidade e destino dos saldos. O mapa de custos indicará o que cada preço inclui. Na medição mensal, conciliar OA, boletim de execução, inventário, aceite, nota fiscal e histórico de pagamentos. Suporte compartilhado e manutenção ordinária não geram cobrança duplicada. Para insumos pagos por unidade entregue e aceita, não cobrar novamente reposição da mesma entrega. A continuidade do N0 durante a missão depende das obrigações que permanecem e da segregação de custos.
 
 Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).
+
+## Bloco adicional — benchmark FN-SUS e custos de ciclo de vida
+
+Solicitar que cada respondente informe, para cada configuração:
+- possibilidade de ativação parcial e independente;
+- dependências mínimas de energia, HVAC, água, comunicação e gases;
+- protocolo FAT/SAT/testes de aceitação;
+- frequência e custo de manutenção preventiva;
+- cobertura da manutenção corretiva ordinária e peças;
+- prazo de reparo/substituição;
+- vida útil e número de ciclos de montagem/desmontagem;
+- custo e prazo de recondicionamento pós-missão;
+- custo de N0 por mês e itens incluídos;
+- preços de mobilização por faixas logísticas;
+- preços de 10 leitos, duas posições críticas, laboratório, centro cirúrgico, isolamento e combinações;
+- medicamentos/insumos por catálogo quando ofertados;
+- premissas de água, energia, combustível e oxigênio;
+- responsabilidades por armazenamento, guarda, transporte, resíduos e licenças.
+
+As respostas devem ser comparáveis no formato UHMR-ECO-002.
