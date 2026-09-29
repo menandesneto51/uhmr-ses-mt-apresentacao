@@ -3,7 +3,7 @@
 ### MINUTA CONTRATUAL - UHMR
 
 **Código:** UHMR-CTR-001
-**Versão:** 2.1 - fonte controlada
+**Versão:** 2.2 - fonte controlada
 **Status:** minuta dependente do edital/TR aprovados e análise jurídica
 
 ## 1. Objeto
@@ -242,3 +242,13 @@ Proposta de indicadores: disponibilidade por componente = horas de capacidade di
 Atribuir à empresa falha ordinária de equipamento, manutenção vencida, conservação inadequada e perda por vencimento sob sua gestão; prever substituição e recomposição sem preço adicional ordinário. Identificar separadamente acesso bloqueado, sítio inadequado, falha de utilidades locais, demanda simultânea e atraso de licença, com responsável, prevenção, contingência, evidência e consequência contratual. A imputação dependerá da causa documentada e da alocação pactuada. Para assistência, prever referência e transporte seguro de pacientes; para laboratório, rede de apoio; para medicamentos, fornecedor e rota alternativos autorizados. O encerramento exige transferência assistencial, reconciliação de estoques e liberação do sítio.
 
 Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).
+
+## Revisão 2.2 — prontidão, aceite e responsabilidades
+
+A minuta final deverá tornar anexos contratuais obrigatórios o catálogo de módulos/itens, a matriz de responsabilidades, a matriz de riscos, o SLA/KPI e o mapa de composição de preços. O contrato deve distinguir N0, mobilização, implantação, operação modular, consumíveis/fornecimentos e recondicionamento, identificando o que cada parcela remunera.
+
+A manutenção preventiva e corretiva ordinária, calibrações, testes, peças, mão de obra e substituições necessárias à capacidade prometida não geram cobrança adicional quando já incorporadas ao N0 ou à parcela correspondente. Recondicionamento pós-missão não poderá ser usado para repassar à SES-MT custo de desgaste/manutenção ordinária ou dano imputável à contratada.
+
+FAT/SAT ou testes equivalentes poderão ser exigidos conforme o componente. A liberação operacional depende de evidência objetiva. A matriz deve prever guarda, transporte, instalação, operação, consumo, reposição, licenciamento, descarte e aceite.
+
+O benchmark FN-SUS nº 04/2026 é referência técnica e não constitui equivalência do modelo jurídico, pois a contratação federal consultada é de aquisição patrimonial.
