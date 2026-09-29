@@ -19,7 +19,7 @@ https://www.gov.br/saude/pt-br/acesso-a-informacao/participacao-social/consultas
 Relatório final:
 https://www.gov.br/saude/pt-br/acesso-a-informacao/participacao-social/consultas-publicas/2026/coleta-de-informacoes-para-formacao-de-precos-visando-atender-aos-requisitos-tecnicos-e-operacionais-aplicaveis-as-emt/relatorio-final.pdf
 
-Processo federal de referência: SEI nº 25000.122539/2026-97.
+Processo SEI nº 25000.122539/2026-97 — referência federal da Consulta Pública nº 04/2026.
 
 ## 2. Elementos tecnicamente aderentes
 
