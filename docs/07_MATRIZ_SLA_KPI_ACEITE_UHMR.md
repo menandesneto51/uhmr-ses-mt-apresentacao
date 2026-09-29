@@ -83,3 +83,22 @@ Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_
 Proposta de indicadores: disponibilidade por componente = horas de capacidade disponível e comprovada / horas de capacidade contratada; manutenção preventiva no prazo = intervenções concluídas no prazo / intervenções devidas; entrega conforme = unidades aceitas / unidades entregues. Denominador zero será registrado como não aplicável. Registrar também tempo da OA ao recebimento, tempo até liberação e falhas críticas. Metas, janelas de apuração, tolerâncias, substituição e regra proporcional de medição devem ser validadas antes do edital. Não fixar percentuais de glosa arbitrários nem confundir redução por serviço não prestado com sanção administrativa. Impedimentos atribuíveis à SES ou a terceiros serão registrados e tratados conforme matriz de riscos.
 
 Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).
+
+## Indicadores adicionais — revisão 2.2
+
+Incluir, após validação de mercado:
+- prontidão comprovada por componente;
+- percentual de manutenção preventiva no prazo;
+- disponibilidade de peças críticas;
+- tempo de confirmação da OA;
+- tempo de mobilização por faixa logística;
+- tempo até fechamento estrutural estanque, quando aplicável;
+- tempo até prontidão clínica;
+- conformidade FAT/SAT/testes;
+- tempo de substituição de item indisponível;
+- tempo de recomposição N0 após missão;
+- falhas críticas por missão;
+- conformidade da cadeia fria;
+- disponibilidade das utilidades críticas.
+
+As metas numéricas permanecem pendentes de RFI e validação técnica; esta matriz não deverá inventar percentuais.
