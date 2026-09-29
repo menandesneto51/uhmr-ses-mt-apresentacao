@@ -161,4 +161,4 @@ Adotar [UHMR-ECO-002](29_MATRIZ_RESPONSABILIDADES_E_CUSTOS_MODULARES_UHMR.md) co
 
 Preços históricos de aquisições federais, se utilizados, deverão aparecer apenas como referência secundária, com data, objeto, atualização monetária, diferenças de escopo e alerta expresso de não equivalência.
 
-O orçamento estimado será formado por fontes próprias compatíveis com o art. 23 da Lei nº 14.133/2021 e regulamento estadual, normalizadas pelo mesmo catálogo, duração, distância, capacidade e matriz de responsabilidades.
+O orçamento estimado será formado por fontes próprias compatíveis com o art. 23 da Lei nº 14.133/2021 e regulamento estadual, normalizadas pelo mesmo catálogo, duração, distância, capacidade e matriz de responsabilidades, sem dupla cobrança entre N0 e parcelas variáveis.
