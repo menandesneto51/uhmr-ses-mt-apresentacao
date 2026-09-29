@@ -3,7 +3,7 @@
 ### MINUTA DE EDITAL - UHMR
 
 **Código:** UHMR-EDT-001
-**Versão:** 2.1 - fonte controlada
+**Versão:** 2.2 - fonte controlada
 **Status:** minuta para revisão administrativa e jurídica
 **Regra:** nenhum requisito deste documento prevalece sobre o ETP/TR aprovado.
 
@@ -197,3 +197,11 @@ Antes do edital, cadastrar cada módulo e fornecimento com código, descrição,
 Permanecem pendentes de decisão institucional: solução e parcelamento, modalidade e critério de julgamento, catálogo e limites, quantitativos sustentados por dados, preços pesquisados, reserva orçamentária, SLAs, matriz de riscos, licenciamento e ato de competência. Menções anteriores a modalidade, técnica e preço, faixas de leitos, prazos ou percentuais são propostas a harmonizar na versão final. Não declarar a contratação aprovada ou pronta para publicação antes dessas validações. As diretrizes OMS para equipes médicas de emergência são referência técnica complementar; N0–N4 é classificação interna do projeto e não representa classificação ou certificação OMS.
 
 Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).
+
+## Revisão 2.2 — condições prévias ao edital
+
+Antes da publicação, o processo deverá conter a comparação documentada com a Consulta Pública FN-SUS nº 04/2026 como benchmark técnico, sem equiparar automaticamente a aquisição federal ao serviço integrado pretendido pela SES-MT.
+
+A planilha de formação de preços e a proposta comercial deverão seguir catálogo padronizado e matriz de responsabilidades, permitindo comparação objetiva de N0, mobilização, implantação, módulos, consumíveis, medicamentos, desmobilização e recondicionamento.
+
+Permanecem bloqueadores de publicação: pesquisa de preços atual e suficiente; quantitativos/tetos; SLAs; memórias de cálculo de utilidades; parcelamento; critério de julgamento; responsabilidades assistenciais/logísticas; licenciamento; matriz de riscos; competência formal; e validação jurídica.
