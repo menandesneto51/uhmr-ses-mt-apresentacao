@@ -76,3 +76,15 @@ Referência transversal: [Diretrizes de prontidão e acionamento](26_DIRETRIZES_
 Atribuir à empresa falha ordinária de equipamento, manutenção vencida, conservação inadequada e perda por vencimento sob sua gestão; prever substituição e recomposição sem preço adicional ordinário. Identificar separadamente acesso bloqueado, sítio inadequado, falha de utilidades locais, demanda simultânea e atraso de licença, com responsável, prevenção, contingência, evidência e consequência contratual. A imputação dependerá da causa documentada e da alocação pactuada. Para assistência, prever referência e transporte seguro de pacientes; para laboratório, rede de apoio; para medicamentos, fornecedor e rota alternativos autorizados. O encerramento exige transferência assistencial, reconciliação de estoques e liberação do sítio.
 
 Fontes, limites de aplicação e requisitos complementares: [Caderno de fundamentação e controles](27_FUNDAMENTACAO_E_CONTROLES_UHMR.md).
+
+## Riscos adicionais — revisão 2.2
+
+| Risco | Causa | Tratamento |
+|---|---|---|
+| usar benchmark FN-SUS como preço oficial | confusão entre aquisição federal e serviço integrado estadual | classificar como benchmark; exigir pesquisa própria art. 23 |
+| dupla cobrança N0 x missão | composição de preços sem mapa de inclusão | catálogo + identificador único de custo + conciliação de fatura |
+| módulo isolado sem utilidades adequadas | ativação parcial sem dependências técnicas | matriz de dependências e aceite por configuração |
+| falha após longos períodos sem uso | manutenção/testes insuficientes | evidência mensal N0, FAT/SAT/testes, peças e substituição |
+| indisponibilidade pós-missão | recondicionamento sem prazo/SLA | plano e SLA de recomposição da prontidão |
+| custo imprevisível de utilidades | ausência de memória de cálculo | dimensionar energia, água, combustível e oxigênio por cenário |
+| permanência indevida de paciente crítico | ausência de referência/contrarreferência | fluxo regulatório e transporte definido na OA/planejamento |
